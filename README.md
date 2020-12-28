@@ -7,7 +7,7 @@ Uses the following:
 - Spring framework with Maven dependency management
 - Thymeleaf templates
 - Apache commons
-- Bootstrap for html layout
+- Bootstrap for CSS layout
 
 - Data from CSV file on github: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series
     -> Pulled via @Scheduled @Service using @PostConstruct 
